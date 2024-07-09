@@ -1,16 +1,16 @@
 <p align='center'>
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://discord.gg/DcmwAB6NmE">Discord</a> |
-  <a href="https://www.youtube.com/channel/UCTwU99osnBuiOKne146IqOg?sub_confirmation=1">YouTube</a> |
-  <a href="https://github.com/xno1n">Github</a><br><br>
-  <img src="https://raw.githubusercontent.com/xno1n/xno1n.github.io/main/demo/demo.png" style="width: 80%">
+  <a href="">Discord</a> |
+  <a href="">YouTube</a> |
+  <a href="https://github.com/opabloliver">Github</a><br><br>
+  <img src="https://raw.githubusercontent.com/xno1n/opabloliver.github.io/main/demo/demo.png" style="width: 80%">
 </p>
 
 ##   
 
 ### 🧰 Support
-- Email: <xno1nSUP@gmail.com>
-- Discord: https://discord.gg/DcmwAB6NmE
+- Email: <opabloliverdev@gmail.com>
+- Discord: https://discord.gg/opabloliver
 
 ##  
 
